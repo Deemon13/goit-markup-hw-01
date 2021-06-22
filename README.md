@@ -1,3 +1,3 @@
-Домашнее задание № 01 блока HTML+CSS курса Fullstack 2021 GoIt
+Проект сайта Webstudio блока HTML+CSS тренинг для команды WHITECODE
 
-# goit-markup-hw-01
+# whitecode-webstudio
